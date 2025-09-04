@@ -6,7 +6,7 @@ My main responsibility is to manage the production and dissemination of the quar
 
 For any queries in related to official statistics (and management information) produced by Social Security Scotland, please get in touch with <a href="mailto:MI@socialsecurity.gov.scot">Social Security Scotland's statistics mailbox</a>, and we will get back to you as soon as possible. Any and all queries will not be discussed and monitored here. 
 
-All producers of official statistics including Social Security Scotland are expected to commit to the <a href="https://code.statisticsauthority.gov.uk/">code of practices for statistics</a>.
+All producers of official statistics including Social Security Scotland are expected to commit to the <a href="https://code.statisticsauthority.gov.uk/">code of practice for statistics</a>.
 
 ### Short career summary
 ```yaml
