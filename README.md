@@ -2,11 +2,15 @@
 
 I am a government statistician working for Social Security Scotland (and, in turn, Scottish Government.) I also happen to be Deaf.
 
-My main responsibility is to manage the production and dissemination of the quarterly <a href="https://www.socialsecurity.gov.scot/publications/statistics/statistics-collections#scottish-child-payment">Scottish Child Payment official statistics</a> publications. External links to the definition of (types of) 'official statistics' and 'management information' are provided at the end of this profile.
+My main responsibility is to manage the production and dissemination of the quarterly <a href="https://www.socialsecurity.gov.scot/publications/statistics/statistics-collections#scottish-child-payment">Scottish Child Payment official statistics</a> publications. External links to the definition of (types of) 'official statistics' and 'management information' are provided below.
 
 For any queries in related to official statistics (and management information) produced by Social Security Scotland, please get in touch with <a href="mailto:MI@socialsecurity.gov.scot">Social Security Scotland's statistics mailbox</a>, and we will get back to you as soon as possible. Any and all queries will not be discussed and monitored here. 
 
+### My current goal
+
 All producers of official statistics including Social Security Scotland are expected to commit to the <a href="https://code.statisticsauthority.gov.uk/">code of practice for statistics</a>.
+
+Thus, as per the code of practice for statistics, my (simple) work goal here is to make contributions to open-source coding (R language) for Social Security Scotland's statistics publications, such as <a href="https://github.com/ScotGovAnalysis/sssstats">sssstats R package</a>.
 
 ### Short career summary
 ```yaml
@@ -18,6 +22,17 @@ career history:
   Social Security Scotland, January 2022 - to date,
   Accountant in Bankruptcy, January 2019 - January 2022.
 ```
+
+### External links for further information
+
+The following links have been provided to learn more about:
+
+- <a href="https://www.socialsecurity.gov.scot/about">Social Security Scotland</a>
+- <a href="https://www.socialsecurity.gov.scot/about/statistics">Social Security Scotland's official statistics work</a>
+- <a href="https://www.socialsecurity.gov.scot/publications/statistics">Latest statistics published by Social Security Scotland</a>
+- <a href="https://www.mygov.scot/scottish-child-payment">About the Scottish Child Payment benefit</a>
+- <a href="https://uksa.statisticsauthority.gov.uk/about-the-authority/uk-statistical-system/types-of-official-statistics/">Types of official statistics</a>
+- <a href="https://analysisfunction.civilservice.gov.uk/policy-store/national-statisticians-guidance-management-information-and-official-statistics/">What is 'management information'?</a>
 
 ### Licenses for Gists
 
@@ -33,13 +48,4 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-### External links for further information
 
-The following links have been provided to learn more about:
-
-- <a href="https://www.socialsecurity.gov.scot/about">Social Security Scotland</a>
-- <a href="https://www.socialsecurity.gov.scot/about/statistics">Social Security Scotland's official statistics work</a>
-- <a href="https://www.socialsecurity.gov.scot/publications/statistics">Latest statistics published by Social Security Scotland</a>
-- <a href="https://www.mygov.scot/scottish-child-payment">About the Scottish Child Payment benefit</a>
-- <a href="https://uksa.statisticsauthority.gov.uk/about-the-authority/uk-statistical-system/types-of-official-statistics/">Types of official statistics</a>
-- <a href="https://analysisfunction.civilservice.gov.uk/policy-store/national-statisticians-guidance-management-information-and-official-statistics/">What is 'management information'?</a>
