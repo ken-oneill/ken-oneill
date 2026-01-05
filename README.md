@@ -8,11 +8,7 @@ I also happen to be Deaf.
 
 ### My current goal
 
-All producers of official statistics including Social Security Scotland are expected to commit to the <a href="https://code.statisticsauthority.gov.uk/">code of practice for statistics</a>.
-
-Thus, my simple work goal is to make contributions to open-source coding (R language) for Social Security Scotland's statistics publications, such as <a href="https://github.com/ScotGovAnalysis/sssstats">sssstats R package</a>.
-
-For any queries in related to official statistics produced by Social Security Scotland, please get in touch with <a href="mailto:MI@socialsecurity.gov.scot">Social Security Scotland's statistics mailbox</a>, and we will get back to you as soon as possible. Any queries will not be discussed and monitored here. 
+My simple work goal is to make contributions to open-source coding (R language) for Social Security Scotland's statistics publications, such as <a href="https://github.com/ScotGovAnalysis/sssstats">sssstats R package</a>.
 
 ### Short career summary
 ```yaml
@@ -35,6 +31,8 @@ The following links have been provided to learn more about:
 - <a href="https://www.mygov.scot/scottish-child-payment">About the Scottish Child Payment benefit</a>
 - <a href="https://uksa.statisticsauthority.gov.uk/about-the-authority/uk-statistical-system/types-of-official-statistics/">Types of official statistics</a>
 - <a href="https://analysisfunction.civilservice.gov.uk/policy-store/national-statisticians-guidance-management-information-and-official-statistics/">What is 'management information'?</a>
+
+All producers of official statistics including Social Security Scotland are expected to commit to the <a href="https://code.statisticsauthority.gov.uk/">code of practice for statistics</a>. For any queries in related to official statistics produced by Social Security Scotland, please get in touch with <a href="mailto:MI@socialsecurity.gov.scot">Social Security Scotland's statistics mailbox</a>, and we will get back to you as soon as possible. Any queries will not be discussed and monitored here. 
 
 ### Licenses for Gists
 
