@@ -18,7 +18,10 @@ job location: Glasgow
 career history:
   Scottish Government, October 2012 - to date,
   Social Security Scotland, January 2022 - to date,
-  Accountant in Bankruptcy, January 2019 - January 2022.
+  Accountant in Bankruptcy, January 2019 - January 2022
+professional memberships:
+  Member of the Institute of Mathematics and its Applications
+  Fellow of the Royal Statistical Society
 ```
 
 ### External links for further information
