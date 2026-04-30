@@ -8,7 +8,7 @@ I also happen to be Deaf.
 
 ### My current goal
 
-My simple work goal is to make contributions to open-source coding (R language) for Social Security Scotland's statistics publications, such as <a href="https://github.com/ScotGovAnalysis/sssstats">sssstats R package</a>.
+My straightforward work goal is to support colleagues to make contributions to open-source coding (R language) for Social Security Scotland's statistics publications, such as <a href="https://github.com/ScotGovAnalysis/sssstats">sssstats R package</a>.
 
 ### Short career summary
 ```yaml
