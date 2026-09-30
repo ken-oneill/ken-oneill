@@ -38,7 +38,7 @@ professional memberships:
 - <a href="https://www.mygov.scot/scottish-child-payment">About the Scottish Child Payment benefit</a>
 - <a href="https://www.socialsecurity.gov.scot/browse/statistics">Social Security Scotland's official statistics work</a>
 - <a href="https://www.socialsecurity.gov.scot/latest-publications">Latest statistics published by Social Security Scotland</a> 
-- <a href="https://github.com/ScotGovAnalysis/sssstats">sssstats R package</a>.
+- <a href="https://github.com/ScotGovAnalysis/sssstats">sssstats R package</a>
 - <a href="https://code.statisticsauthority.gov.uk/">Code of Practice for Statistics</a>. 
 
 For any queries in related to official statistics produced by Social Security Scotland, please get in touch with <a href="mailto:MI@socialsecurity.gov.scot">Social Security Scotland's statistics mailbox</a>. 
